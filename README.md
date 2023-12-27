@@ -1,16 +1,63 @@
-### Hi there 👋
+# 👋 Hi there
 
-<!--
-**kelvinchangw/kelvinchangw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  My name is Kelvin, a Full Stack Engineer with a passion for programming. I am currently immersed in expanding my knowledge of software development. I am enthusiastic about discovering new technologies that can be harnessed to address real-world challenges. My interests include artificial intelligence, digital realities, and comprehensive full-stack development.
+</div>
 
-Here are some ideas to get you started:
+# 🔩 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="50"
+        height="50"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="50"
+        height="50"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="50"
+        height="50"
+        alt="HTML5"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="50"
+        height="50"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="50"
+        height="50"
+        alt="C Plus Plus"
+      />
+      <br /><strong>C++</strong>
+    </td>
+  </tr>
+</table>
+
+# 👾 Socials
+
+<a href="https://linkedin.com/in/kelvinchangw" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin: kelvin%20chang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
