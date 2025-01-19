@@ -82,8 +82,12 @@
     </tr>
 </table>
 
-# 👾 Socials
+# 🐉 Socials
 
 <a href="https://linkedin.com/in/kelvinchangw" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin: kelvin%20chang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/kelvin%20chang-%20?style=for-the-badge&logoColor=%23FF0000&label=linkedin&labelColor=405DE6&color=000000&link=https%3A%2F%2Fwww.youtube.com%2F%40kelvin-ai">
+</a>
+<br/>
+<a href="https://www.youtube.com/@kelvin-ai" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/kelvin%20chang-%20?style=for-the-badge&logoColor=%23FF0000&label=YouTube&labelColor=%23FF0000&color=000000&link=https%3A%2F%2Fwww.youtube.com%2F%40kelvin-ai">
 </a>
