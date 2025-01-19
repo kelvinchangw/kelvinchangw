@@ -10,13 +10,33 @@
     <tr>
         <td align="center" height="120" width="120">
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg"
             width="50"
             height="50"
-            alt="Python"
+            alt="pnpm"
         />
         <br>
-        <strong>Python</strong>
+        <strong>pnpm</strong>
+        </td>
+        <td align="center" height="120" width="120">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+            width="50"
+            height="50"
+            alt="React"
+        />
+        <br>
+        <strong>React</strong>
+        </td>
+        <td align="center" height="120" width="120">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+            width="50"
+            height="50"
+            alt="TypeScript"
+        />
+        <br>
+        <strong>TypeScript</strong>
         </td>
         <td align="center" height="120" width="120">
         <img
@@ -27,6 +47,16 @@
         />
         <br>
         <strong>JavaScript</strong>
+        </td>
+        <td align="center" height="120" width="120">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            width="50"
+            height="50"
+            alt="Python"
+        />
+        <br>
+        <strong>Python</strong>
         </td>
         <td align="center" height="120" width="120">
         <img
@@ -48,6 +78,8 @@
         <br>
         <strong>CSS3</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center" height="120" width="120">
             <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
