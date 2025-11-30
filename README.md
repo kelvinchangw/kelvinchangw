@@ -78,6 +78,8 @@
         <br>
         <strong>Python</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center" height="120" width="120">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -98,8 +100,6 @@
         <br>
         <strong>CSS3</strong>
         </td>
-    </tr>
-    <tr>
         <td align="center" height="120" width="120">
             <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
