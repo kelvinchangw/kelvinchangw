@@ -10,6 +10,26 @@
     <tr>
         <td align="center" height="120" width="120">
         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+            width="50"
+            height="50"
+            alt="AWS"
+        />
+        <br>
+        <strong>AWS</strong>
+        </td>
+        <td align="center" height="120" width="120">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+            width="50"
+            height="50"
+            alt="Java"
+        />
+        <br>
+        <strong>Java</strong>
+        </td>
+        <td align="center" height="120" width="120">
+        <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg"
             width="50"
             height="50"
