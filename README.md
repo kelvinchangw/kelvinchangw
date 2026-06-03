@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 <div>
-  My name is Kelvin, a Full Stack Engineer with a passion for programming. I am currently immersed in expanding my knowledge of software development. I am enthusiastic about discovering new technologies that can be harnessed to address real-world challenges. My interests include artificial intelligence, digital realities, and comprehensive full-stack development.
+  My name is Kelvin, a Full Stack Engineer with a passion for funmaxxing. I like AI/human interactions, digital realities, and full stack development.
 </div>
 
 # 🔩 Technologies & Tools
